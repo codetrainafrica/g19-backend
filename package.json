@@ -1,0 +1,16 @@
+{
+  "name": "gen-19-backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Tony",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
