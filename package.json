@@ -1,0 +1,17 @@
+{
+  "name": "gen19-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "tony",
+  "license": "ISC",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
